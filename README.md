@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Fresh Graduate Student in Software Engineering Stream</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me :woman_technologist:
 
 - 🔭 I’m currently seeking **[Software Engineering]()** job oppotunity 
 
