@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="image/dargit.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="500px" src="image/dargit.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Darshani Kaushalya</h1>
 <h3 align="center">I'm a Fresh Graduate Student in Software Engineering Stream</h3>
