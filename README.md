@@ -1,24 +1,24 @@
 <a href="#"><img width="100%" height="500px" src="image/dargit.jpg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Darshani Kaushalya</h1>
-<h3 align="center">I'm a Fresh Graduate Student in Software Engineering Stream</h3>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Darshani Kaushalya</h1>
+<h3 align="center"> 👩‍🎓 I'm a Fresh Graduate Student in Software Engineering Stream</h3>
 
 
-## 🙋‍♂️ About Me :woman_technologist:
+## :raising_hand_woman: About Me 
 
-- 🔭 I’m currently seeking **[Software Engineering]()** job oppotunity 
+- :woman_technologist: I’m currently seeking **[Software Engineering]()** job oppotunity 
 
 - 🌱 I’m currently learning **Java || J2EE || Spring || Springboot**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👀 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio]()**
 
-- 📫 How to reach me **darshanikaushalya7788dkd@gmail.com**
+- 📧 How to reach me **darshanikaushalya7788dkd@gmail.com**
 
-- ⚡ Fun fact **Listening Songs || Travelling**
+- 🎧 Fun fact **Listening Songs || Travelling**
 
-## 🚀 Languages and Tools:
+## :pencil: Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -41,7 +41,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 🌟 My Github Stats
 
   <br/>
     <a href="https://github.com/DarshaniKaushalya/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DarshaniKaushalya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
