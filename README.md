@@ -8,7 +8,7 @@
 
 - :woman_technologist: I’m currently seeking **[Software Engineering]()** job oppotunity 
 
-- 🌱 I’m currently learning **Java || J2EE || Spring || Springboot**
+- 🌱 I’m currently learning **Java || J2EE || Spring || Springboot || JavaScript**
 
 - 👀 I’m looking to collaborate on **OpenSource Projects**
 
