@@ -16,7 +16,7 @@
 
 - 📧 How to reach me **darshanikaushalya7788dkd@gmail.com**
 
-- 🎧 Fun fact **Listening Songs || Travelling || Game Developments**
+- 🎧 Fun fact **Music || Dancing || Travelling || Game Developments ||**
 
 ## :pencil: Languages and Tools:
 
