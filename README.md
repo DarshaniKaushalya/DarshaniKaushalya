@@ -6,9 +6,9 @@
 
 ## :raising_hand_woman: About Me 
 
-- :woman_technologist: I’m currently seeking **[Software Engineering]()** job oppotunity 
+- :woman_technologist: I’m currently seeking **[Frontend/Fullstack Software Engineering]()** job oppotunity 
 
-- 🌱 I’m currently learning **Java || J2EE || Spring || Springboot || JavaScript**
+- 🌱 I’m currently working as **[Associate Software Engineer]()** at Gapstars.
 
 - 👀 I’m looking to collaborate on **OpenSource Projects**
 
@@ -16,7 +16,7 @@
 
 - 📧 How to reach me **darshanikaushalya7788dkd@gmail.com**
 
-- 🎧 Fun fact **Listening Songs || Travelling**
+- 🎧 Fun fact **Listening Songs || Travelling || Game Developments**
 
 ## :pencil: Languages and Tools:
 
