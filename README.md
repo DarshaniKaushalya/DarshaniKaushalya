@@ -8,7 +8,7 @@
 
 - :woman_technologist: I’m currently seeking **[Frontend/Fullstack Software Engineering]()** job oppotunity 
 
-- 🌱 I’m currently working as **[Associate Software Engineer]()** at Gapstars.
+- 🌱 I’m currently working as **[Associate Software Engineer]()** at Enadoc.
 
 - 👀 I’m looking to collaborate on **OpenSource Projects**
 
