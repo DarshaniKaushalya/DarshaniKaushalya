@@ -1,18 +1,18 @@
 <a href="#"><img width="100%" height="500px" src="image/dargit.jpg" height="175px"/></a>
 
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Darshani Kaushalya</h1>
-<h3 align="center"> 👩‍🎓 I'm a Software Engineer with 2+ year experienced</h3>
+<h3 align="center"> 👩‍🎓 I'm a Software Engineer, over 3.5 years experienced</h3>
 
 
 ## :raising_hand_woman: About Me 
 
-- :woman_technologist: I’m currently seeking **[Frontend/Fullstack Software Engineering]()** job oppotunity 
+- :woman_technologist: I’m currently seeking **[Senior Fullstack Software Engineering]()** job oppotunity 
 
-- 🌱 I’m currently working as **[Software Engineer]()** at Enadoc.
+- 🌱 I’m currently working as **[Software Engineer]()** at DKTechne.
 
 - 👀 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://darshanikaushalya.com/)**
 
 - 📧 How to reach me **darshanikaushalya7788dkd@gmail.com**
 
